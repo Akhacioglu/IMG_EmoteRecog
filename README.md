@@ -1,2 +1,2 @@
 # IMG_EmoteRecog
-In this project we did use image datas and try to distinguish their emotions as my "graduation project"
+In this project, we tried to distinguish emotions from image data and compared our results with the true results as my "graduation project".
